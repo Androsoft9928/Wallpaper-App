@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android App Developer/TopWallpaper/app/src/main/res/drawable/ic_search.xml" value="0.2703125" />
+        <entry key="..\:/Android App Developer/TopWallpaper/app/src/main/res/drawable/item_apply_button_bg.xml" value="0.2703125" />
+        <entry key="..\:/Android App Developer/TopWallpaper/app/src/main/res/drawable/item_background_search.xml" value="0.2703125" />
+        <entry key="..\:/Android App Developer/TopWallpaper/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Android App Developer/TopWallpaper/app/src/main/res/layout/activity_splash_andro.xml" value="0.136" />
+        <entry key="..\:/Android App Developer/TopWallpaper/app/src/main/res/layout/activity_wallpaper_show.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android App Developer/TopWallpaper/app/src/main/res/layout/item_andro_category_rv.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android App Developer/TopWallpaper/app/src/main/res/layout/item_andro_wallpaper_rv.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="17" project-jdk-type="JavaSDK" />
+</project>
